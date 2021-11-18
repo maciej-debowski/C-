@@ -4,6 +4,8 @@
 #include <string.h>
 using namespace std;
 
+// Copyright Maciej Dębowski 2021 - today
+
 string compileLine(string normalLine) {
     if(normalLine.length() == 0) return "";
     bool allowedEOL = true;
