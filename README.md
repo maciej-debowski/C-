@@ -97,3 +97,4 @@ Avatible:
 
 
 C+ is just C++ but a little bit different
+TO COMPILE G++ COMPILER IS REQUIRED!!!!!!!!!!
