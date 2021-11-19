@@ -6,8 +6,7 @@ Did you ever think why there is no C+ only C++, C & C#? Now it is!
 2. Write your code in file `main.cp`
 3. Run file `main.exe` (C+ compiler)
 4. Wait for compilation
-5. Delete `cp-program.cpp` file (it will be useless for you)
-6. Run your `program.exe` program
+5. Run your `program.exe` program
 
 # Simple Program:
 ```
